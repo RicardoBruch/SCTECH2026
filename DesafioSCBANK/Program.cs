@@ -1,4 +1,4 @@
-﻿using DesafioSCBANK;
+﻿using ClasseCliente;
 
 List<Cliente> clientes = new List<Cliente>{
     new Cliente("Ricardo", 25),

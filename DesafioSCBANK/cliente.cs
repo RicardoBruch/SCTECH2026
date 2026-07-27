@@ -1,5 +1,5 @@
 
-namespace DesafioSCBANK
+namespace ClasseCliente
 {
     public class Cliente
     {
